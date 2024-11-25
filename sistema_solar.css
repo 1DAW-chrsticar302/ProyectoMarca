@@ -8,11 +8,15 @@
             -webkit-text-fill-color: transparent;
             -webkit-background-clip: text;
         }
+        .h1_2 {
+            font-size: 100px;
+            text-decoration: underline;
+            animation: appearH1 ease 2s;
+        }
         body {
             background: url('https://images.pexels.com/photos/3214110/pexels-photo-3214110.jpeg?cs=srgb&dl=pexels-frank-cone-140140-3214110.jpg&fm=jpg');
             color: #FFFA;
             margin: 0;
-            width: 100vw;
         }
         .prebody {
             background: url('https://images.pexels.com/photos/3214110/pexels-photo-3214110.jpeg?cs=srgb&dl=pexels-frank-cone-140140-3214110.jpg&fm=jpg');
