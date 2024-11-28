@@ -5,6 +5,7 @@
     height: 400px;  
     border-radius: 30px;
     padding-right: 10%;
+    padding-top: 2%;
     box-shadow: 0 0 35px 0 black;
     animation: appearH1 ease 2s;
 }
